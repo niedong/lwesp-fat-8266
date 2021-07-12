@@ -4,9 +4,11 @@
 
 This repository targets specifically at [Ai-thinker](https://github.com/Ai-Thinker-Open) ESP8266, and should work well with other device that use Ai-thinker ESP8266 as a solution, such as ESP-01S, ESP-07, etc. You can find more information about your device on [Ai-thinker website](https://docs.ai-thinker.com/en/esp8266).
 
-The usage of [lwesp-fat-8266](https://github.com/niedong/lwesp-fat-8266) is exacly the same as [lwesp](https://github.com/MaJerle/lwesp). You can find more examples and resources in [lwesp](https://github.com/MaJerle/lwesp) repository.
-
 Follow original [documentation](https://docs.majerle.eu/projects/lwesp/) for information on implementation and details.
+
+## Usage & Examples
+
+The usage of [lwesp-fat-8266](https://github.com/niedong/lwesp-fat-8266) is exacly the same as [lwesp](https://github.com/MaJerle/lwesp). There is also an important repository [stm32f769xx](https://github.com/niedong/stm32f769xx), which demonstrates  configuration and usage for [lwesp-fat-8266](https://github.com/niedong/lwesp-fat-8266) based on stm32f769, [Ai-thinker](https://github.com/Ai-Thinker-Open) ESP8266 and FreeRTOS. You can even find more examples and resources in [lwesp](https://github.com/MaJerle/lwesp) repository.
 
 ## Fix & Changes
 
@@ -22,4 +24,4 @@ Contributions are always welcome. Please follow [C style & coding rules](https:/
 
 ## License
 
-This software is double-licensed under MIT license, with copyright by [MaJerle](https://github.com/MaJerle) (see LICENSE), and copyright by niedong (see LICENSE.niedong).
+This software is double-licensed under MIT license, with copyright by [MaJerle](https://github.com/MaJerle) (see LICENSE), and copyright by [niedong](https://github.com/niedong) (see LICENSE.niedong).
